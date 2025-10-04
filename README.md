@@ -29,3 +29,11 @@ APPLE_DOCS_FETCH_MODE=fixtures make docs-sync
 When running the GitHub Actions workflow locally with [`act`](https://github.com/nektos/act), the script automatically falls back to fixtures because `act` sets the `ACT` environment variable.
 
 You can provide custom fixtures by setting `APPLE_DOCS_FIXTURE_DIR` to a directory containing `<output>.html` files that match entries in `docs-config/apple_urls.txt`.
+
+## Regenerating the sitemap configuration
+
+The helper script `scripts/generate_docs_config.py` can crawl Apple developer
+sitemaps and rebuild `docs-config/apple_urls.txt` as your source of truth
+changes.  The crawler understands nested sitemap indexes and now also supports
+compressed sitemap indexes (`.xml.gz`), inflating them automatically while it
+discovers URLs.

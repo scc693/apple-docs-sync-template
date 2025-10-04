@@ -1,0 +1,5 @@
+https://developer.apple.com/documentation/xcode xcode.md
+https://developer.apple.com/design/human-interface-guidelines/ hig.md
+https://developer.apple.com/documentation/technologyoverviews tech-overviews.md
+https://developer.apple.com/documentation/technologyoverviews/app-design-and-ui app-design-ui.md
+https://developer.apple.com/documentation/technologyoverviews/adopting-liquid-glass liquid-glass.md

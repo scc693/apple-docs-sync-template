@@ -1,0 +1,7 @@
+https://developer.apple.com/design/human-interface-guidelines/ios design__human-interface-guidelines__ios.md
+https://developer.apple.com/design/human-interface-guidelines/visionos design__human-interface-guidelines__visionos.md
+https://developer.apple.com/documentation/appstoreconnectapi documentation__appstoreconnectapi.md
+https://developer.apple.com/documentation/swift documentation__swift.md
+https://developer.apple.com/documentation/xcode documentation__xcode.md
+https://developer.apple.com/tutorials/sample-app tutorials__sample-app.md
+https://developer.apple.com/tutorials/swiftui tutorials__swiftui.md
